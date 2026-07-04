@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/badge/version-v1.3.0-blue.svg)](https://github.com/auto3333333333/auto3translator/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-lightgrey.svg)]()
 # 📦 Workbench — オールインワン多機能ツールボックス (Windows版)
 「YouTubeの動画を保存したい」「PDFをサクッと結合したい」「画像の形式を変えたい」……日々のパソコン作業で、こんな「ちょっとしたこと」のために、わざわざ新しいソフトを探したり、怪しい無料サイトを使ったりしていませんか？
 **『Workbench（ワークベンチ）』**は、そんな悩みをこれ1つで全て解決する、インストール不要のWindows用万能ユーティリティアプリです。
